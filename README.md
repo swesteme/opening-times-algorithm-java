@@ -5,11 +5,11 @@
 
 This algorithm has been converted from Objective C code of the Toeppersee iOS app ([App Store link](https://itunes.apple.com/de/app/toeppersee/id793480458?mt=8)), to be used in its Android counterpart. It can be used to find out (for any timestamp), when a restaurant,  or in our case wakeboard lift will be open. Most important for opening times that are subject to seasonal changes.
 
-![Season](https://github.com/swesteme/opening-times-algorithm-java/raw/development/Documentation/season.png)
+![Season](https://github.com/swesteme/opening-times-algorithm-java/raw/master/Documentation/season.png)
 
 What we really want to know is, whether we should go wakeboard _now_, _later today_ or maybe on _Thursday afternoon_, because it is a bank holiday.
 
-![Season](https://github.com/swesteme/opening-times-algorithm-java/raw/development/Documentation/home.png)
+![Season](https://github.com/swesteme/opening-times-algorithm-java/raw/master/Documentation/home.png)
 
 ## Installation
 Copy the content of `src` directory to project's source directory.
